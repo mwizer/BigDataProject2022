@@ -68,3 +68,4 @@ plt.xticks(range(0,df.shape[0],500),df['Date'].loc[::500],rotation=45)
 plt.xlabel('Date',fontsize=18)
 plt.ylabel('Mid Price',fontsize=18)
 plt.show()
+# testujemy xDD
